@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="flex flex-col items-center mt-5">
-      <h1 className="font-bold text-3xl text-violet-500">
+    <main className="mt-5 flex flex-col items-center">
+      <h1 className="text-3xl font-bold text-violet-500">
         Hello from Next.js 15
       </h1>
     </main>
